@@ -1,6 +1,6 @@
 *{
-    font-family: Arial, Helvetica, sans-serif;
-    max-width: 800px;
+    font-family: Helvetica,Arial,sans-serif;
+    max-width: 700px;
     margin: auto;
 
 }
@@ -12,6 +12,7 @@ p
     margin-left: 2em;
     margin-right: 1em;
     margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 
@@ -30,9 +31,13 @@ body{
     background-color: #e0eeee;
 }
 
-
 .profileBody {
     display: inline-block;
+    background-color: white;
+    margin-top: 6px;
+    margin-left: 55px;
+    width: 75%;
+    height: 590px;
     margin-bottom: 6px;
 }
 
@@ -58,6 +63,8 @@ body{
     letter-spacing: 2px; 
     font-style: italic;  
 }
+
+
 
 
 hr{
