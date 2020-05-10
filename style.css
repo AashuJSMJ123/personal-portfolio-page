@@ -96,7 +96,7 @@ position:absolute;
 }
 .front-wheel
 {
-left: -80px;
+left: 80px;
 position: absolute;
 }
 @keyframes wheel
