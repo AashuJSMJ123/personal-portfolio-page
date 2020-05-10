@@ -27,7 +27,7 @@ ul,ol
 
 body{
     min-width: 500px;
-    background-color: white ;
+    background-color: #e0eeee;
 }
 
 
@@ -58,13 +58,6 @@ body{
     letter-spacing: 2px; 
     font-style: italic;  
 }
-
-
-
-
-
-
-
 
 
 hr{
