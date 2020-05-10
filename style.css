@@ -1,1 +1,24 @@
-/* Add your CSS code here */
+function Call()
+{carname.innerHTML=cars.value;
+ switch(cars.selectedIndex)
+ {
+ case 1:
+  price.innerHTML='100000/-'
+  img.src='Alto.jpg'
+  break;
+ case 2:
+  price.innerHTML='200000/-'
+  img.src='WagonR.jpg'
+  break;
+ case 3:
+  price.innerHTML='300000/-'
+  img.src='ciaz.jpg'
+  break;
+ case 4:
+  price.innerHTML='400000/-'
+  img.src='Swift.jpg'
+  break;
+
+ }
+
+}
